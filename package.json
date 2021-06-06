@@ -1,0 +1,14 @@
+{
+  "name": "shunhuawong",
+  "version": "1.0.0",
+  "author": "shunhuawong",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"0.0.0.0\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.6"
+  },
+  "description": "小狗窝"
+}
