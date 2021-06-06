@@ -80,7 +80,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "shunhuawong",
     "authorAvatar": "/avatar.png",
-    "备案号": "京ICP备2021017756号-1",
+    "record": "京ICP备2021017756号-1",
     "startYear": "2017"
   },
   "markdown": {
