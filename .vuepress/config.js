@@ -78,7 +78,6 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "shunhuawong",
     "authorAvatar": "/avatar.png",
     "record": "京ICP备2021017756号-1",
     "startYear": "2017"
