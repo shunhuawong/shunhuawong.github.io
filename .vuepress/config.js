@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/shunhuawong",
             "icon": "reco-github"
           }
         ]
@@ -73,26 +73,13 @@ module.exports = {
       }
     },
     "friendLink": [
-      {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
-      },
-      {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
-      }
     ],
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "shunhuawong",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "record": "京ICP备2021017756号-1",
     "startYear": "2017"
   },
   "markdown": {
