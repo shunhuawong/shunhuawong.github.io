@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "shunhuawong",
+  "title": "小狗窝",
   "description": "小狗窝",
   "dest": "public",
   "head": [
