@@ -1,6 +1,6 @@
 module.exports = {
   "title": "小狗窝",
-  "description": "小狗窝",
+  "description": "...",
   "dest": "public",
   "head": [
     ["link", { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" }],
