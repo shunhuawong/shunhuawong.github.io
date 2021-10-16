@@ -4,8 +4,8 @@ module.exports = {
   "dest": "public",
   "head": [
     ["link", { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" }],
-    ["script", { src: "scripts/demo.js" }],   
-   [   
+    ["script", { src: "scripts/demo.js" }],
+   [
       "meta",
       {
         "name": "viewport",
@@ -83,13 +83,14 @@ module.exports = {
         "text": "Tag"
       }
     },
-    "friendLink": [{ rel: "工信部", href: "https://beian.miit.gov.cn/" }],
+    "friendLink": [],
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "authorAvatar": "/avatar.png",
     "record": "京ICP备2021017756号-1",
+    "recordLink":"https://beian.miit.gov.cn",
     "startYear": "2017"
   },
   "markdown": {
