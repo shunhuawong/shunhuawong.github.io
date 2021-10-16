@@ -83,7 +83,7 @@ module.exports = {
         "text": "Tag"
       }
     },
-    "friendLink": [{"工信部":"https://beian.miit.gov.cn/"}],
+    "friendLink": [{ rel: "工信部", href: "https://beian.miit.gov.cn/" }],
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
